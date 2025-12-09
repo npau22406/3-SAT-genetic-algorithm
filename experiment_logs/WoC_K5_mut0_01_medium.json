@@ -1,0 +1,151 @@
+{
+  "experiment_name": "WoC_K5_mut0_01_medium",
+  "num_runs": 20,
+  "results": {
+    "run_1": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 57
+    },
+    "run_2": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_3": {
+      "best_fitness": 0.995,
+      "satisfied": 398,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_4": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 53
+    },
+    "run_5": {
+      "best_fitness": 0.995,
+      "satisfied": 398,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_6": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_7": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 219
+    },
+    "run_8": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 82
+    },
+    "run_9": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_10": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 61
+    },
+    "run_11": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_12": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_13": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_14": {
+      "best_fitness": 0.995,
+      "satisfied": 398,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_15": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 183
+    },
+    "run_16": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_17": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 123
+    },
+    "run_18": {
+      "best_fitness": 0.995,
+      "satisfied": 398,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    },
+    "run_19": {
+      "best_fitness": 1.1,
+      "satisfied": 400,
+      "total_clauses": 400,
+      "solved": true,
+      "solution_generation": 197
+    },
+    "run_20": {
+      "best_fitness": 0.9975,
+      "satisfied": 399,
+      "total_clauses": 400,
+      "solved": false,
+      "solution_generation": null
+    }
+  },
+  "summary": {
+    "success_rate": 40.0,
+    "avg_best_fitness": 1.038,
+    "avg_solution_generation": 121.875
+  }
+}
